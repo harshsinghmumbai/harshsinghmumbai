@@ -4,11 +4,11 @@
 ## Intro  
  <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🌱 I’m currently learning Cookies and Session in backend development Concepts   
-  
+- 🌱 I’m currently learning Cookies and Session in
+     backend development Concepts   
 
-- ❓ Ask me about anything related to MERN stack and <br>
-       related technologies  
+- ❓ Ask me about anything related to MERN stack and
+     related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces  
 
