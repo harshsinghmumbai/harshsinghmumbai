@@ -4,9 +4,8 @@
 ## Intro  
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <br/>
-<hr/>
-<br/>
-- 🌱 I’m currently learning Cookies and Session in
+
+ - 🌱 I’m currently learning Cookies and Session in 
      backend development Concepts   
 
 - ❓ Ask me about anything related to MERN stack and
