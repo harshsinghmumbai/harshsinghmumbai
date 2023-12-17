@@ -2,8 +2,10 @@
    [![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)](https://harshsinghmumbai.io)
  
 ## Intro  
- <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<br/>
+<hr/>
+<br/>
 - 🌱 I’m currently learning Cookies and Session in
      backend development Concepts   
 
@@ -20,7 +22,7 @@
 <br/>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="left" width="100%">
   
  ### Frontend  
 <div align="center">  
@@ -42,7 +44,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="left" width="40%">
 
 
 
