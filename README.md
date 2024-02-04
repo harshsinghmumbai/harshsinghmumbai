@@ -5,8 +5,8 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <br/>
 
- - 🌱 I’m currently learning Cookies and Session in 
-     backend development Concepts   
+ - 🌱 I’m currently learning real API, Promise, Asynchronous code, Synchronous code,
+   Single Threading, callback, fetch and multiple more concept's and also exploring React hook  
 
 - ❓ Ask me about anything related to MERN stack and
      related technologies  
