@@ -5,10 +5,11 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <br/>
 
- - 🌱 I’m currently learning real API, Promise, Asynchronous code, Synchronous code,
-   Single Threading, callback, fetch and multiple more concept's and also exploring React hook  
+ - 🌱 I’m currently learning real API, Promise, Asynchronous & Synchronous code,
+   Single Threading, callback, fetch and multiple more concepts
+   and also exploring the React hook  
 
-- ❓ Ask me about anything related to MERN stack and
+- ❓ Ask me about anything related to the MERN stack and
      related technologies  
   
 - ⚡ Fun fact: I use tabs over spaces  
@@ -39,8 +40,9 @@
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Express.js" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/harshsinghmumbai" target="_blank"><img style="margin: 10px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="Github" height="50" /></a>  
 </div>
 
 </td><td valign="left" width="40%">
